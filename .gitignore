@@ -105,3 +105,6 @@ venv.bak/
 
 # My stuff
 data/
+node_modules/
+.DS_Store
+*.swp
